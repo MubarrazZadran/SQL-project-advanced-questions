@@ -1,2 +1,2 @@
-# Sales_Data_Full_project_Sql
-This project consists of some of the most useful insights that can be generated from a sales dataset. I have used window functions, CTEs, joins and functions to perform data analysis on this dataset. The data set consists of 50000 rows. 
+# SQL-project-advanced-questions. 
+This project contains solutions to 20 real-world-style SQL questions that cover a wide range of topics including aggregation, window functions, joins, subqueries, filtering, and data quality checks This sales data set consists of 50000 rows. 
